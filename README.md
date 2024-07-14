@@ -1,4 +1,3 @@
-```markdown
 # My Npmjs and GitHub Package Deployment Guide
 
 ## Update Npmjs Account
