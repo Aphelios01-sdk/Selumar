@@ -40,6 +40,12 @@ To integrate real-time Ethereum Gwei checker, you can clone the Selumar reposito
 git clone https://github.com/Aphelios01-sdk/Selumar
 cd Selumar
 ```
+```bash
+node bot.js
+```
+The bot will look like the one below
+![Alt Text](https://imgur.com/a/LkFWfYA)
+
 
 ### Forking the Repository
 
@@ -51,9 +57,21 @@ If you want to contribute or add more features, you can fork the repository:
 Feel free to fork and modify the project as needed. Make sure to follow best practices for contributing to open-source projects.
 
 ---
+## Staking and Donations
+
+This project is registered on Tea. Feel free to contribute by staking or donating to support its development.
+
+- **Staking:** You can stake your tokens to earn rewards and support the project's ecosystem.
+  
+- **Donations:** Your donations help maintain and improve this project. Your support is greatly appreciated!
+![Alt Text](https://imgur.com/07VYVNS)
+
+Thank you for contributing to the project's success!
+
 
 Adjust the instructions based on your specific requirements and preferences.
 
 Feel free to adjust the instructions based on your specific process or preferences.
 
+This project is licensed under the MIT License
 
