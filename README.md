@@ -43,7 +43,17 @@ cd eth-gas-bot
 ```bash
 node bot.js
 ```
+# Top 3 Ethereum Layer 2 Solutions
 
+This repository lists the top 3 Ethereum Layer 2 solutions based on certain criteria.
+
+## How to Run
+
+To fetch and display the top 3 Ethereum Layer 2 solutions, run the following command:
+
+```sh
+node layer2_list.js
+```
 
 ### Forking the Repository
 
