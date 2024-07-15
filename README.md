@@ -1,5 +1,14 @@
 # My Npmjs and GitHub Package Deployment Guide
 
+## to run some bot features
+```bash
+git clone https://github.com/Aphelios01-sdk/Selumar
+cd selumar
+ls
+```
+# if you want to make it dependent on npmjs
+It's free, just do it below
+
 ## Update Npmjs Account
 - Open your Npmjs account.
 
@@ -37,7 +46,6 @@ Make sure to replace `@username` with your actual GitHub or NPM username.
 To integrate real-time Ethereum Gwei checker, you can clone the Selumar repository:
 
 ```bash
-git clone https://github.com/Aphelios01-sdk/Selumar
 cd eth-gas-bot
 ```
 ```bash
