@@ -1,4 +1,4 @@
-# Top 10 Ethereum Layer 2 Solutions
+# Top 3 Ethereum Layer 2 Solutions
 
 Berikut adalah daftar 10 solusi Layer 2 Ethereum teratas berdasarkan kapitalisasi pasar:
 
