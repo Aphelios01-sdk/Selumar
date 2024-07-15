@@ -52,6 +52,7 @@ This repository lists the top 3 Ethereum Layer 2 solutions based on certain crit
 To fetch and display the top 3 Ethereum Layer 2 solutions, run the following command:
 
 ```sh
+cd layer2
 node layer2_list.js
 ```
 
