@@ -43,8 +43,6 @@ cd Selumar
 ```bash
 node bot.js
 ```
-The bot will look like the one below
-![node](https://imgur.com/gallery/siu-LkFWfYA)
 
 
 ### Forking the Repository
@@ -64,7 +62,6 @@ This project is registered on Tea. Feel free to contribute by staking or donatin
 - **Staking:** You can stake your tokens to earn rewards and support the project's ecosystem.
   
 - **Donations:** Your donations help maintain and improve this project. Your support is greatly appreciated!
-![tea](https://imgur.com/gallery/ankara-messi-sXqrErC)
 
 Thank you for contributing to the project's success!
 
