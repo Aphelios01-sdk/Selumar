@@ -38,7 +38,7 @@ To integrate real-time Ethereum Gwei checker, you can clone the Selumar reposito
 
 ```bash
 git clone https://github.com/Aphelios01-sdk/Selumar
-cd Selumar
+cd eth-gas-bot
 ```
 ```bash
 node bot.js
