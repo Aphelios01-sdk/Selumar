@@ -55,15 +55,6 @@ node bot.js
 
 This repository lists the top 3 Ethereum Layer 2 solutions based on certain criteria.
 
-## How to Run
-
-To fetch and display the top 3 Ethereum Layer 2 solutions, run the following command:
-
-```sh
-cd layer2
-node layer2_list.js
-```
-
 ### Forking the Repository
 
 If you want to contribute or add more features, you can fork the repository:
